@@ -1,5 +1,5 @@
 # P2
-Avaliação 2 IAAS (computação em nuvem 1) - P2CN1
+Avaliação 2 - IAAS (computação em nuvem 1)
 
 ## Instância na web
 - url -> [Coming](https://www.ornelles.com.br/)
