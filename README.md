@@ -1,6 +1,9 @@
 # P2
 Avaliação 2 IAAS (computação em nuvem 1) - P2CN1
 
+## Instância na web
+- url -> Coming
+
 ## Descrição
 A aplicação é um formulário para cadastro de alunos, back e front separados, comunicação por API!
 
@@ -32,5 +35,23 @@ Campos:
 Listar todos os alunos -> GET /api/alunos  
 Buscar aluno por ID -> GET /api/alunos/:id
 
-## Instância na web
-- url -> 
+## 📋 Validações Implementadas
+
+### Frontend
+- ✅ Nome: mínimo 3 caracteres, máximo 100, apenas letras
+- ✅ Usuário: mínimo 4 caracteres, máximo 50, alfanumérico + underscore
+- ✅ Senha: mínimo 8 caracteres, deve ter maiúsculas, minúsculas e números
+- ✅ Email: formato válido, máximo 255 caracteres
+- ✅ Foto: máximo 5MB, apenas imagens
+- ✅ Observação: máximo 500 caracteres (opcional)
+
+### Backend
+- ✅ Mesmas validações do frontend
+- ✅ Verifica usuário duplicado
+- ✅ Verifica email duplicado
+- ✅ Hash de senha com bcrypt (12 salt rounds)
+- ✅ Proteção contra SQL injection
+
+## 🔒 Segurança da Senha
+
+O sistema usa **bcrypt** com 12 salt rounds.
