@@ -2,7 +2,7 @@
 Avaliação 2 - IAAS (computação em nuvem 1)
 
 ## Instância na web
-- url -> [Coming](https://www.ornelles.com.br/)
+- url -> [4.229.169.75](http://4.229.169.75)
 
 ## Descrição
 A aplicação é um formulário para cadastro de alunos em banco MySQL, com backend separado do frontend e comunicação através de API!
