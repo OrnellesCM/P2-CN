@@ -2,7 +2,8 @@
 Avaliação 2 - IAAS (computação em nuvem 1)
 
 ## Instância na web
-- url -> [4.229.169.75](http://4.229.169.75)
+- Aplicação -> [4.229.169.75](http://4.229.169.75)
+- API -> [4.229.169.75:3000/api/alunos](http://4.229.169.75:3000/api/alunos)
 
 ## Descrição
 A aplicação é um formulário para cadastro de alunos em banco MySQL, com backend separado do frontend e comunicação através de API!
