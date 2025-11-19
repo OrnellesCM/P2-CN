@@ -21,7 +21,7 @@ A aplicação é um formulário para cadastro de alunos, back e front separados,
 
 ## API
 Criar novo Aluno -> POST servidor:porta/api/alunos
-Campos:
+*Campos:
 - nome_completo (string, obrigatório)
 - usuario_acesso (string, obrigatório, único)
 - senha (string, obrigatório)
