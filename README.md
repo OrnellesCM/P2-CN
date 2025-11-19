@@ -29,7 +29,7 @@ Campos:
 - observacao (string, opcional)
 - foto (file, opcional, máx 5MB)
 
-Listar todos os alunos -> GET /api/alunos
+Listar todos os alunos -> GET /api/alunos  
 Buscar aluno por ID -> GET /api/alunos/:id
 
 ## Instância na web
