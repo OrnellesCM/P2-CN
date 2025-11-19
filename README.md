@@ -5,7 +5,7 @@ Avaliação 2 IAAS (computação em nuvem 1) - P2CN1
 - url -> Coming
 
 ## Descrição
-A aplicação é um formulário para cadastro de alunos, back e front separados, comunicação por API!
+A aplicação é um formulário para cadastro de alunos em banco MySQL, com backend separado do frontend e comunicação através de API!
 
 ## Pré-requisitos
 - **Nodejs**
