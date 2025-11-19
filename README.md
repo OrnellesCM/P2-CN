@@ -8,8 +8,8 @@ Avaliação 2 - IAAS (computação em nuvem 1)
 A aplicação é um formulário para cadastro de alunos em banco MySQL, com backend separado do frontend e comunicação através de API!
 
 ## Pré-requisitos
-- **Nodejs**
-- **NPM**
+- **Node.js**
+- **Npm**
 - **Servidor MySQL**
 - **Navegador web**
 
